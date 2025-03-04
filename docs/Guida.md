@@ -1,2 +1,0 @@
-# Guida utilizzo grafici interattivi
-Nella tua dashboard sono presenti i grafici interattivi dei dati più importanti raccolti dai dispositivi. Diversamente dal report in questi grafici puoi scegliere il periodo temporale di visualizzazione così da capire in quali giorni hai avuto dei problemi e poter ricercare meglio la causa. Al posto di una lunga e noiosa guida è presente un video fatto dal nostro team di esperti per spiegarti al meglio tutti i grafici presenti nella dashboard. [spiegazione dashboard](immagine.jpg)
