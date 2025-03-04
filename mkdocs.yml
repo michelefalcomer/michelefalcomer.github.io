@@ -1,0 +1,12 @@
+site_name: Dashboard salute
+theme: 
+    name: material
+
+
+nav:
+    - Home: Index.md
+    - Dashboard: Dashboard.md
+    - Guida: Guida.md
+    - Classifica: Classifica.md
+    - Report: Report.md
+
